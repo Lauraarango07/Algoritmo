@@ -1,0 +1,33 @@
+body{
+
+    background:url("../imagen/Sin-título-1.gif");
+}
+
+h2{
+ font-size: 50px;
+ color: black;
+ text-align: center;
+ font-family: 'Oswald', sans-serif;
+
+}
+
+button{
+    padding: 15px 40px;
+    font-size: 22px;
+    color: aqua;
+    background: black;
+    border-color: black;
+    border: 3px solid;
+    margin: 5px;
+    cursor: pointer;
+    transition: .5s;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+button:hover{
+    border: 3px solid ;
+    color: black;
+    border-radius: 30px ;
+    background-color: white;
+}
